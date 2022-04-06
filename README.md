@@ -1,6 +1,6 @@
-#Link to verified contract
+# Link to verified contract
 https://rinkeby.etherscan.io/address/0xffB1243b973D88bB82104906A8028E0199581645#code
-#Link to surge
+# Link to surge
 https://honorable-writer.surge.sh/
 
 # 🏗 scaffold-eth | 🏰 BuidlGuidl

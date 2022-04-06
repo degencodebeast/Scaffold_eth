@@ -1,3 +1,8 @@
+# Link to verified contract
+https://rinkeby.etherscan.io/address/0x887E2E05a08553c95a0A09b4A6d4461D4B465F2D#code
+# link to surge
+https://curvy-apples.surge.sh/
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 1: 🥩 Decentralized Staking App
